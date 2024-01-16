@@ -10,15 +10,16 @@
 
 ###
 
-<h2 align="center">🛠️ Experience</h2>
+<h2 align="center">📃 Studies</h2>
 
 ###
 
-<h5 align="left">📃42 School since 2022</h5>
+<h5 align="left">2021/2022 MIAMI Tarbes</h5>
+<h5 align="left">42 School since 2023</h5>
 
 ###
 
-<h2 align="center">📞 Contacts</h2>
+<h2 align="center">📞 Contact</h2>
 
 ###
 
@@ -40,6 +41,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h1 align="center">Toolkit</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
