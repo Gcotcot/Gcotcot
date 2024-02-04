@@ -24,6 +24,7 @@
 ###
 
 <h5 align="left">✉️ Mail : guillaume28.cot@gmail.com</h5>
+<h5 align="left">🌐 Web site : https://guillaumecot.com/</h5>
 
 ###
 
