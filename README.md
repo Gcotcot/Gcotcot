@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">👨‍🎓 42 Student @ Perpignan</h5>
+<h5 align="left">👨‍🎓 42 Student Perpignan</h5>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <h5 align="left">2021/2022 MIAMI Tarbes</h5>
-<h5 align="left">42 School since 2023</h5>
+<h5 align="left">2023/2024 42 School</h5>
 
 ###
 
